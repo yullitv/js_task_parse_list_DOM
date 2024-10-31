@@ -1,5 +1,8 @@
 'use strict';
 
+// write code here
+'use strict';
+
 const salaryList = [...document.querySelectorAll('li')];
 
 function parseSalary(salaryStr) {
